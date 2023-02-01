@@ -1,8 +1,13 @@
 .heading{
-    font-size: 32px;
     text-align: center;
-    font-family: "Lucida Big Casual", "Theinhardt Bold font",sans-serif;
     
+    
+}
+
+.heading2,
+.heading{
+    font-size: 32px;
+    font-family: "Lucida Big Casual", "Theinhardt Bold font",sans-serif;
 }
 
 *{
@@ -12,7 +17,8 @@
 /*Color top heading and group unvisited link*/
 .heading,
 div,
-a:link {
+a:link,
+.heading2 {
     color: rgb(255, 253, 219);
 }
 
