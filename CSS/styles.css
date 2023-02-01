@@ -5,3 +5,29 @@
     
 }
 
+*{
+    background-color:rgb(43, 35, 0);
+}
+
+/*Color top heading and group unvisited link*/
+.heading,
+div,
+a:link {
+    color: rgb(255, 253, 219);
+}
+
+/*If link is hovered over*/
+a:hover {
+    color:rgb(255,214,86);
+}
+
+/*If link has been visited*/
+a:visited,
+#body-heading {
+    color: rgb(255,180,0);
+}
+
+/*Color when link is clicked*/
+a:active {
+    color: violet;
+}
