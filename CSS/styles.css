@@ -30,7 +30,7 @@ a:hover {
 
 /*If link has been visited*/
 a:visited,
-#body-heading {
+.body-heading {
     color: rgb(255,180,0);
 }
 
@@ -44,7 +44,7 @@ li{
     padding: 0.50em;
 }
 
-#body-heading{
+.body-heading{
     font-size: 30px;
 }
 
