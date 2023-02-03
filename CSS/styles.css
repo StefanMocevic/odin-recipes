@@ -20,6 +20,7 @@ div,
 a:link,
 .heading2 {
     color: rgb(255, 253, 219);
+    
 }
 
 /*If link is hovered over*/
@@ -37,3 +38,11 @@ a:visited,
 a:active {
     color: violet;
 }
+
+/*Space out list items on all pages*/
+li{
+    padding: 0.50em;
+}
+
+
+  
